@@ -12,15 +12,15 @@
 	<p>Ubuntu Server PHP Deployment</p>
 </body>
 <div>
-	<label>Jean</label>
+	<label>Firstname</label>
 	<input type="text" name="firstname" class= "form-control">
 </div>
 <div>
-	<label>Malinao</label>
+	<label>Middlename</label>
 	<input type="text" name="middlename" class= "form-control">
 </div>
 <div>
-	<label>Ellevera</label>
+	<label>Lastname</label>
 	<input type="text" name="lastname" class= "form-control">
 </div>
 </html>
